@@ -1,6 +1,6 @@
 # React + Vite
 
-# Catalog
+# Catalog Page
 ![image](https://github.com/user-attachments/assets/676bbbb0-a712-47e4-95cf-440c2ca16e1b)
 
 # Datails Page
